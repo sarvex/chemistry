@@ -29,7 +29,7 @@
   <packaging>pom</packaging>
 
   <properties>
-    <cxf.version>2.2.2</cxf.version>
+    <cxf.version>2.6.11</cxf.version>
   </properties>
 
   <build>
